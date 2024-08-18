@@ -1,4 +1,4 @@
-## Hola Amigo! :sparkles:
+## Hola Amigo :sparkles:
 Welcome, why not come in and have a cup of tea?
 
 <!--
